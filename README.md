@@ -1,4 +1,40 @@
-### Hi there 👋
+## Hi there 🚀
+### My name is Lakshya and I'm a Software Engineer 
+
+<img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized.gif" height="200" >
+
+
+```Typescript
+let Lakshya : Person = {
+  pronouns: "he/him/his",
+  
+  location: "India",
+  
+  skills: ["NodeJS","VueJS","ReactJS","Python","MongoDB","MySQL","C++"],
+  
+  experiences: [
+  "Full stack engineer intern at Polyrithm Technologies",
+  "Technical Lead at DSC JIIT NOIDA",
+  "Google Summer Of Code 2019 at JBOSS Community(Codeuino)",
+  "Web development intern at IT BODHI",
+  "Technical Coordinator at DSC JIIT Noida"
+  "Web/Mobile development intern at Digital Maths"
+  ],
+  
+  hobbies: [
+  "Photography",
+  "Watching Anime",
+  "Mindlessly scrolling on reddit",
+  ],
+  
+```
+
+**More Information at**
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lakshya-khera-52b67718/)
+<br>
+[Portfolio](http://secret-lowlands-35035.herokuapp.com/)
+
 
 <!--
 **lakshyabatman/lakshyabatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
