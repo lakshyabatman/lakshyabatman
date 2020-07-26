@@ -21,6 +21,8 @@ let Lakshya : Person = {
   "Web/Mobile development intern at Digital Maths"
   ],
   
+  education: "Computer Science Engineering from Jaypee Institute Of Information Technology, Noida (2017-2021)",
+  
   hobbies: [
   "Photography",
   "Watching Anime",
