@@ -27,7 +27,8 @@ let Lakshya : Person = {
   "Photography",
   "Watching Anime",
   "Mindlessly scrolling on reddit",
-  ],
+  ]
+  }
   
 ```
 
