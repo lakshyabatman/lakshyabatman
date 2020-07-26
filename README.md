@@ -6,28 +6,28 @@
 
 ```Typescript
 let Lakshya : Person = {
-  pronouns: "he/him/his",
+     pronouns: "he/him/his",
   
-  location: "India",
+      location: "India",
   
-  skills: ["NodeJS","VueJS","ReactJS","Python","MongoDB","MySQL","C++"],
+      skills: ["NodeJS","VueJS","ReactJS","Python","MongoDB","MySQL","C++"],
   
-  experiences: [
-  "Full stack engineer intern at Polyrithm Technologies",
-  "Technical Lead at DSC JIIT NOIDA",
-  "Google Summer Of Code 2019 at JBOSS Community(Codeuino)",
-  "Web development intern at IT BODHI",
-  "Technical Coordinator at DSC JIIT Noida"
-  "Web/Mobile development intern at Digital Maths"
-  ],
+      experiences: [
+        "Full stack engineer intern at Polyrithm Technologies",
+        "Technical Lead at DSC JIIT NOIDA",
+        "Google Summer Of Code 2019 at JBOSS Community(Codeuino)",
+        "Web development intern at IT BODHI",
+        "Technical Coordinator at DSC JIIT Noida"
+        "Web/Mobile development intern at Digital Maths"
+        ],
   
-  education: "Computer Science Engineering from Jaypee Institute Of Information Technology, Noida (2017-2021)",
+      education: "Computer Science Engineering from Jaypee Institute Of Information Technology, Noida (2017-2021)",
   
-  hobbies: [
-  "Photography",
-  "Watching Anime",
-  "Mindlessly scrolling on reddit",
-  ]
+      hobbies: [
+        "Photography",
+        "Watching Anime",
+        "Mindlessly scrolling on reddit",
+      ]
   }
   
 ```
