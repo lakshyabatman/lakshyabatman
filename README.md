@@ -10,7 +10,7 @@ let Lakshya : Person = {
   
       location: "India",
   
-      skills: ["NodeJS","VueJS","ReactJS","Python","MongoDB","MySQL","C++"],
+      skills: ["NodeJS","VueJS","Typescript","ReactJS","Python","MongoDB","MySQL","C++"],
   
       experiences: [
         "Full stack engineer intern at Polyrithm Technologies",
@@ -34,9 +34,13 @@ let Lakshya : Person = {
 
 **More Information at**
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lakshya-khera-52b67718/)
-<br>
-[Portfolio](http://secret-lowlands-35035.herokuapp.com/)
+<div style="display:flax">
+     <a href="https://gitlab.com/lakshyabatman"><img src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png" height="40" ></img></a>
+     <a href="https://www.linkedin.com/in/lakshya-khera-52b67718/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/768px-Linkedin_icon.svg.png" height="40"  ></img></a>
+     <a href="http://secret-lowlands-35035.herokuapp.com/"><img src="https://cdn4.iconfinder.com/data/icons/software-line/32/software-line-02-512.png" height="40"></img></a>
+</div>
+
+
 
 
 <!--
