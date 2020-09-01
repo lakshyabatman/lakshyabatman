@@ -40,6 +40,9 @@ let Lakshya : Person = {
      <a href="http://secret-lowlands-35035.herokuapp.com/"><img src="https://cdn4.iconfinder.com/data/icons/software-line/32/software-line-02-512.png" height="40"></img></a>
 </div>
 
+<br/>
+
+![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=lakshyabatman&show_icons=true&theme=tokyonight)
 
 
 
