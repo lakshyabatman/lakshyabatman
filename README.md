@@ -39,12 +39,12 @@ let Lakshya : Person = {
      <a href="https://www.linkedin.com/in/lakshya-khera-52b67718/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/768px-Linkedin_icon.svg.png" height="40"  ></img></a>
      <a href="http://secret-lowlands-35035.herokuapp.com/"><img src="https://cdn4.iconfinder.com/data/icons/software-line/32/software-line-02-512.png" height="40"></img></a>
 </div>
-
+<!--
 <br/>
 
 ![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=lakshyabatman&show_icons=true&theme=tokyonight)
 
-
+-->
 
 <!--
 **lakshyabatman/lakshyabatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
