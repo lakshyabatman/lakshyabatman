@@ -13,6 +13,7 @@ let Lakshya : Person = {
       skills: ["NodeJS","VueJS","Typescript","ReactJS","Python","MongoDB","MySQL","C++"],
   
       experiences: [
+        "Software Engineer at Jupiter Money",
         "Software Engineer at Zomentum",
         "Software Engineer Intern at Zomentum",
         "Full stack engineer intern at Polyrithm Technologies",
