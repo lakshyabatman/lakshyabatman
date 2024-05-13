@@ -10,9 +10,10 @@ let Lakshya : Person = {
   
       location: "India",
   
-      skills: ["NodeJS","VueJS","Typescript","ReactJS","Python","MongoDB","MySQL","C++"],
+      skills: ["Java", "Golang", "NodeJS","VueJS","Typescript","ReactJS","Python","MongoDB","MySQL"],
   
       experiences: [
+        "Senior Full Stack Developer at Navan",
         "Software Engineer at Jupiter Money",
         "Software Engineer at Zomentum",
         "Software Engineer Intern at Zomentum",
